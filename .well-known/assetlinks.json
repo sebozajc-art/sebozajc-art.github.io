@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "si.mizarstvostajl.home",
+      "sha256_cert_fingerprints": [
+        "B8:1B:C6:3F:F4:D6:E3:8E:9A:55:D0:2E:10:29:57:70:95:04:F3:2F:C2:A5:3A:84:FA:41:33:A6:E8:F8:BE:A8",
+        "B3:E7:9E:D8:B4:B1:3C:26:A7:FE:2A:99:DD:35:24:D4:A5:09:74:B5:86:3F:C4:9F:18:A5:A2:D5:6D:E7:CF:05"
+      ]
+    }
+  }
+]
